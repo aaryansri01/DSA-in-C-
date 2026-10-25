@@ -9,9 +9,9 @@ This repository contains my practice code and solutions as I learn Data Structur
 - C++ Basics
 - Arrays
 - Functions
- ## Coming Next
-- Searching
+- - Searching
 - Sorting
+ ## Coming Next
 - Recursion
 - Strings
 - Linked Lists
